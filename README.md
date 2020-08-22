@@ -1,2 +1,2 @@
-# assignment01
+#  Stactic_Website
 HTML CSS static website
