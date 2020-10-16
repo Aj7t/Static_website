@@ -9,7 +9,7 @@
 
 header
 {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.JPEG);
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img/pic1.JPEG);
 	height : 100vh;
 	background-size: cover;
 	background-position: center;
