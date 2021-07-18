@@ -9,7 +9,7 @@
 
 header
 {
-	background-image:linear-gradient(rgba(80, 12, 12, 0.5),rgba(33, 29, 97, 0.9)), url(img/pic1.JPEG);
+	background-image:linear-gradient(rgba(80, 12, 12, 0.5),rgba(33, 29, 97, 0.9)), url(https://raw.githubusercontent.com/Aj7t/Static_website/master/img/pic1.jpeg);
 	height : 100vh;
 	background-size: cover;
 	background-position: center;
